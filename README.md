@@ -1,4 +1,4 @@
-# text_2_excel_demo
+# text-2-excel-demo
 a demo that convert text to excel
 
 This example includes the following:
